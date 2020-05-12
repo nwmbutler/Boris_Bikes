@@ -22,3 +22,15 @@ bike
 Verb
 use
 is working
+
+
+	Objects                  Messages
+	Person                   bike
+	Bike                     is_working?
+	Bike docking station     release_bike
+
+
+
+
+	
+
